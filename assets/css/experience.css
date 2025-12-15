@@ -91,12 +91,12 @@ section > div {
   color: var(--bg-txt-img);
 }
 
-.curriculo_head {
+.currículo_head {
   font-weight: bold;
 }
 
-/*color of curriculo page headings*/
-.my_curriculo {
+/*color of currículo page headings*/
+.my_currículo {
   color: #4e00bb;
 }
 
@@ -115,11 +115,11 @@ section > div {
   }
 }
 
-.curriculo-cards {
+.currículo-cards {
   margin: 0 auto;
 }
 @media only screen and (max-width: 550px) {
-  .curriculo-cards {
+  .currículo-cards {
     overflow: hidden;
     padding-left: 30px;
     padding-right: 30px;

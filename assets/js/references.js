@@ -17,7 +17,7 @@ const references = [
         name2 : "Anush Bhatia",
         designation2 : "Senior Analyst, Capgemini", 
         image2: "https://avatars.githubusercontent.com/u/40017559?v=4",
-        message2 : "Ana Ferre has the best grasping skills I have seen in a new developer. I got to know him through GSSOC'2021 when I mentored him, and he made an exceptional growth during the competition. He made some incredible contributions and has good curriculo with Open Source.",
+        message2 : "Ana Ferre has the best grasping skills I have seen in a new developer. I got to know him through GSSOC'2021 when I mentored him, and he made an exceptional growth during the competition. He made some incredible contributions and has good currículo with Open Source.",
         
         
     },
@@ -27,7 +27,7 @@ const references = [
         name1 : "Aditya Jyoti Paul",
         designation1 : "Technical Analyst, Amazon",
         image1 : "https://media-exp1.licdn.com/dms/image/C5603AQGEV-kzawPxjw/profile-displayphoto-shrink_800_800/0/1588602102622?e=1651708800&v=beta&t=8nxhFoR-WB4OKVltyYaVjmRpig_kQcvFsoa-eLjJPBQ",
-        message1 : "Ana Ferre and I have worked on several projetos. Apart from technical skills, he also has good soft skills. He has good curriculo with debugging and has excellent leadership qualities.",
+        message1 : "Ana Ferre and I have worked on several projetos. Apart from technical skills, he also has good soft skills. He has good currículo with debugging and has excellent leadership qualities.",
         
 
         sl2:4,

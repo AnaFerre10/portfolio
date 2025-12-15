@@ -18,7 +18,7 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="curriculo.html">curriculo</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="currículo.html">currículo</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projetos.html">projetos</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="sobre mim.html">sobre mim</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="HardSkils.html">HardSkils</a></li>
@@ -215,7 +215,7 @@ const sem_temp = [
     event_image: "chemistrymentee.jpg",
   },
   {
-    event_name: "User curriculo",
+    event_name: "User currículo",
     event_type: "Summer sobre mim",
     event_image: "uxsobre mim.jpg",
   },

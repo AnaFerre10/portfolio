@@ -68,7 +68,7 @@ const moocscards = [
   },
 ];
 
-const curriculo = [
+const currículo = [
   {
     img: "assets/images/HardSkils-page/c1.png",
   },
@@ -94,15 +94,15 @@ const prevBtn = document.querySelector("#prevBtn");
 const nextBtn = document.querySelector("#nextBtn");
 
 window.addEventListener("DOMContentLoaded", function () {
-  showcurriculo();
+  showcurrículo();
 });
 
-function showcurriculo() {
+function showcurrículo() {
   setInterval(function () {
-    if (currentItem === curriculo.length) {
+    if (currentItem === currículo.length) {
       currentItem = 0;
     }
-    const item = curriculo[currentItem];
+    const item = currículo[currentItem];
     img.src = item.img;
     currentItem++;
   }, 3000);
